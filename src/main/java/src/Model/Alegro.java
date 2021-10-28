@@ -41,18 +41,14 @@ public class Alegro {
         return this.conn;
     }
 
-
     public void setSERVER_URL(String SERVER_URL) {
         this.SERVER_URL = SERVER_URL;
     }
-
     public void setUSERNAME(String USERNAME) {
         this.USERNAME = USERNAME;
     }
-
     public void setPASSWORD(String PASSWORD) {
         this.PASSWORD = PASSWORD;
     }
-
 
 }
